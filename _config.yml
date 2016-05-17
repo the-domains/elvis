@@ -1,0 +1,14 @@
+layout_spectrum: 0.3100359
+color:
+  saturation: 1
+  lightness: 0.8270325
+  brandStrength: 0.6541219
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#663614'
+    - '#FCBC27'
+    - '#BC884C'
+  rhythmicContrast: 0.9402082
+typography_spectrum: 0.4336918
+name: Elvis
